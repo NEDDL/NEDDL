@@ -38,8 +38,11 @@
 ---
 
 <div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NEDDL&theme=transparent&hide_border=true&mode=weekly)(https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NEDDL&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 </div>
+
 ---
 
 ### 📚 Extended Tools & Libraries

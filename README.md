@@ -47,7 +47,7 @@
 
 <div align="center">
 
-[![Mustafa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NEDDL&theme=react-dark&hide_border=true)]
+![Mustafa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NEDDL&theme=react-dark&hide_border=true)
 
 </div>
 
@@ -80,7 +80,7 @@ Fully editable websites with pre-configured CMS structures for non-technical use
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Contentful](https://img.shields.io/badge/Contentful-2478cc?style=for-the-badge&logo=contentful&logoColor=white)
@@ -120,8 +120,8 @@ GDPR-compliant tracking management via custom Next.js SDK.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![GDPR](https://img.shields.io/badge/GDPR-Compliant-blue?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
 
 </details>
 
@@ -133,8 +133,8 @@ Integration of government APIs, third-party services, and internal systems.
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 </details>
 
@@ -146,9 +146,9 @@ Scaling websites and CRMs using Vercel, AWS, and Cloudflare.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 </details>
 
@@ -180,8 +180,8 @@ Agile methodologies (Scrum/Kanban), backlog management, technical user story wri
 ![Agile](https://img.shields.io/badge/Agile-005571?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-1572B6?style=for-the-badge)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff)
 
 </details>
 

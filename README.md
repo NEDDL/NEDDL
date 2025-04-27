@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Web Developer & Product Owner | Next.js • Strapi • React.js • SEO • CRM Development</h3>
+<h3 align="left">Web Developer & Product Owner | Next.js • Strapi • React.js • SEO • CRM Development</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### 🛠 Main Tech Stack
 
-<div align="center">
+<div align="left">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![React.js](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
@@ -35,6 +35,11 @@
 
 </div>
 
+---
+
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NEDDL&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+</div>
 ---
 
 ### 📚 Extended Tools & Libraries
@@ -64,7 +69,10 @@ Fully editable websites with pre-configured CMS structures for non-technical use
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-2478cc?style=for-the-badge&logo=contentful&logoColor=white)
 
 </details>
 
@@ -74,7 +82,9 @@ Fully editable websites with pre-configured CMS structures for non-technical use
 Handling customer management, invoicing, project tracking, and administrative document automation.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Strapi](https://img.shields.io/badge/Strapi-2e7eea?style=for-the-badge&logo=strapi)
+![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql)
 ![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase)
 
@@ -86,6 +96,7 @@ Handling customer management, invoicing, project tracking, and administrative do
 Shopify Headless stores with dynamic product configurators and SEO optimization.
 
 ![Shopify](https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
@@ -98,6 +109,8 @@ GDPR-compliant tracking management via custom Next.js SDK.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![GDPR](https://img.shields.io/badge/GDPR-Compliant-blue?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 
 </details>
 
@@ -109,6 +122,8 @@ Integration of government APIs, third-party services, and internal systems.
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 
 </details>
 
@@ -120,6 +135,9 @@ Scaling websites and CRMs using Vercel, AWS, and Cloudflare.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
 
 </details>
 
@@ -151,6 +169,8 @@ Agile methodologies (Scrum/Kanban), backlog management, technical user story wri
 ![Agile](https://img.shields.io/badge/Agile-005571?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-1572B6?style=for-the-badge)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
 
 </details>
 
@@ -178,5 +198,5 @@ Agile methodologies (Scrum/Kanban), backlog management, technical user story wri
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
+  <img src="https://komarev.com/ghpvc/?username=NEDDL&label=Profile%20views&color=0e75b6&style=flat" alt="NEDDL" />
 </p>

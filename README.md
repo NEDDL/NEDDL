@@ -92,12 +92,12 @@ Fully editable websites with pre-configured CMS structures for non-technical use
 
 Handling customer management, invoicing, project tracking, and administrative document automation.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)
 
 </details>
 
@@ -106,9 +106,9 @@ Handling customer management, invoicing, project tracking, and administrative do
 
 Shopify Headless stores with dynamic product configurators and SEO optimization.
 
-![Shopify](https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify)
+![Shopify](https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </details>
@@ -118,10 +118,10 @@ Shopify Headless stores with dynamic product configurators and SEO optimization.
 
 GDPR-compliant tracking management via custom Next.js SDK.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![GDPR](https://img.shields.io/badge/GDPR-Compliant-blue?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![GDPR](https://img.shields.io/badge/GDPR-Compliant-blue?style=for-the-badge&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </details>
 
@@ -130,7 +130,7 @@ GDPR-compliant tracking management via custom Next.js SDK.
 
 Integration of government APIs, third-party services, and internal systems.
 
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -145,7 +145,7 @@ Scaling websites and CRMs using Vercel, AWS, and Cloudflare.
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
@@ -157,7 +157,7 @@ Scaling websites and CRMs using Vercel, AWS, and Cloudflare.
 
 Supabase Auth and Firebase Authentication implementation.
 
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </details>
@@ -177,8 +177,8 @@ Structured metadata, dynamic OpenGraph integration, sitemap management.
 
 Agile methodologies (Scrum/Kanban), backlog management, technical user story writing, sprint validation.
 
-![Agile](https://img.shields.io/badge/Agile-005571?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-1572B6?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-005571?style=for-the-badge&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-1572B6?style=for-the-badge&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff)

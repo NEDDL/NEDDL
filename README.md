@@ -45,6 +45,14 @@
 
 ---
 
+<div align="center">
+
+[![Mustafa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NEDDL&theme=react-dark&hide_border=true)]
+
+</div>
+
+---
+
 ### 📚 Extended Tools & Libraries
 
 | Category                     | Libraries / Services                                                         |

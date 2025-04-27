@@ -57,23 +57,115 @@
 
 ### 🚀 Solutions and Features I Built
 
-- **Dynamic Website Builders**: Fully editable websites with pre-configured CMS structures for non-technical users.
-- **Custom CRM Platforms**: Handling customer management, invoicing, project tracking, document automation.
-- **Headless E-commerce Solutions**: Shopify Headless stores with dynamic product configurators and SEO optimization.
-- **Consent & Script Management**: GDPR-compliant tracking management (custom SDK).
-- **RESTful API Integrations**: Government APIs, external services, internal APIs for automation.
-- **Cloud-based Deployments**: Scaling projects with Vercel, AWS, and Cloudflare.
-- **Authentication Systems**: Supabase Auth, Firebase Authentication implementations.
-- **SEO Optimization**: Structured metadata, dynamic OpenGraph, sitemap management.
-- **Agile Product Development**: Backlog management, technical user stories, sprint validation.
+<details>
+<summary>🧩 Dynamic Website Builders</summary>
+
+Fully editable websites with pre-configured CMS structures for non-technical users.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+</details>
+
+<details>
+<summary>🧩 Custom CRM Platforms</summary>
+
+Handling customer management, invoicing, project tracking, and administrative document automation.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Strapi](https://img.shields.io/badge/Strapi-2e7eea?style=for-the-badge&logo=strapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase)
+
+</details>
+
+<details>
+<summary>🧩 Headless E-commerce Solutions</summary>
+
+Shopify Headless stores with dynamic product configurators and SEO optimization.
+
+![Shopify](https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</details>
+
+<details>
+<summary>🧩 Consent & Script Management</summary>
+
+GDPR-compliant tracking management via custom Next.js SDK.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![GDPR](https://img.shields.io/badge/GDPR-Compliant-blue?style=for-the-badge)
+
+</details>
+
+<details>
+<summary>🧩 RESTful API Integrations</summary>
+
+Integration of government APIs, third-party services, and internal systems.
+
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</details>
+
+<details>
+<summary>🧩 Cloud-based Deployments</summary>
+
+Scaling websites and CRMs using Vercel, AWS, and Cloudflare.
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+
+</details>
+
+<details>
+<summary>🧩 Authentication Systems</summary>
+
+Supabase Auth and Firebase Authentication implementation.
+
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</details>
+
+<details>
+<summary>🧩 SEO Optimization</summary>
+
+Structured metadata, dynamic OpenGraph integration, sitemap management.
+
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Next SEO](https://img.shields.io/badge/NextSEO-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+<details>
+<summary>🧩 Agile Product Development</summary>
+
+Agile methodologies (Scrum/Kanban), backlog management, technical user story writing, sprint validation.
+
+![Agile](https://img.shields.io/badge/Agile-005571?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-1572B6?style=for-the-badge)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+</details>
 
 ---
 
 ### 📦 Open Source / SDK Projects
 
-- 📦 [@consentry/next](https://www.npmjs.com/package/@consentry/next) – GDPR-compliant consent and script management for Next.js apps.
-- 📦 [@consentry/ui](https://www.npmjs.com/package/@consentry/ui) – Consent UI components for Next.js applications.
-- 📦 [@nextshopkit/sdk](https://www.npmjs.com/package/@nextshopkit/sdk) – Shopify and Next.js integration SDK with custom fields and dynamic cart management.
+- 📦 [@consentry/next](https://www.npmjs.com/package/@consentry/next) [![NPM Version](https://img.shields.io/npm/v/@consentry/next?color=cb3837&label=npm&logo=npm&style=flat-square)](https://www.npmjs.com/package/@consentry/next)  
+  GDPR-compliant consent and script management for Next.js apps.
+
+- 📦 [@consentry/ui](https://www.npmjs.com/package/@consentry/ui) [![NPM Version](https://img.shields.io/npm/v/@consentry/ui?color=cb3837&label=npm&logo=npm&style=flat-square)](https://www.npmjs.com/package/@consentry/ui)  
+  Consent UI components for Next.js applications.
+
+- 📦 [@nextshopkit/sdk](https://www.npmjs.com/package/@nextshopkit/sdk) [![NPM Version](https://img.shields.io/npm/v/@nextshopkit/sdk?color=cb3837&label=npm&logo=npm&style=flat-square)](https://www.npmjs.com/package/@nextshopkit/sdk)  
+  Shopify and Next.js integration SDK with custom fields and dynamic cart management.
 
 ---
 
@@ -82,14 +174,6 @@
 - Scaling **headless CMS** solutions for SaaS and e-commerce.
 - Improving **CRM automation** and **dynamic reporting**.
 - Building GDPR-first **consent and script management libraries**.
-
----
-
-### 📫 How to reach me:
-
-- 📧 Email: [mustafasaitonal@outlook.com](mailto:mustafasaitonal@outlook.com)
-- 💼 LinkedIn: [Mustafa ONAL](https://www.linkedin.com/in/mustafasaitonal/)
-- 🧑‍💻 Malt: [Mustafa ONAL](https://www.malt.fr/profile/mustafaonal)
 
 ---
 

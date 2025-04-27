@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="left">Web Developer & Product Owner | Next.js • Strapi • React.js • SEO • CRM Development</h3>
+<h3 align="center">Web Developer & Product Owner | Next.js • Strapi • React.js • SEO • CRM Development</h3>
 
 ---
 
@@ -187,16 +187,127 @@ Agile methodologies (Scrum/Kanban), backlog management, technical user story wri
 
 ---
 
-### 📦 Open Source / SDK Projects
+## 🚀 Projects & Solutions I Built
 
-- 📦 [@consentry/next](https://www.npmjs.com/package/@consentry/next) [![NPM Version](https://img.shields.io/npm/v/@consentry/next?color=cb3837&label=npm&logo=npm&style=flat-square)](https://www.npmjs.com/package/@consentry/next)  
-  GDPR-compliant consent and script management for Next.js apps.
+---
 
-- 📦 [@consentry/ui](https://www.npmjs.com/package/@consentry/ui) [![NPM Version](https://img.shields.io/npm/v/@consentry/ui?color=cb3837&label=npm&logo=npm&style=flat-square)](https://www.npmjs.com/package/@consentry/ui)  
-  Consent UI components for Next.js applications.
+### 🌐 [soleilex.com](https://soleilex.com)
 
-- 📦 [@nextshopkit/sdk](https://www.npmjs.com/package/@nextshopkit/sdk) [![NPM Version](https://img.shields.io/npm/v/@nextshopkit/sdk?color=cb3837&label=npm&logo=npm&style=flat-square)](https://www.npmjs.com/package/@nextshopkit/sdk)  
-  Shopify and Next.js integration SDK with custom fields and dynamic cart management.
+<table>
+<tr>
+<td width="60%">
+
+**Corporate website** fully built with **Next.js** and **Strapi** CMS, enabling dynamic blog publishing, legal document management, and fully editable pages for non-technical users.
+
+**Focus:** SEO Optimization, Dynamic Content Management, GDPR Compliance.
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</td>
+<td>
+
+<img src="https://your-screenshot-link.com" alt="Soleilex Website Screenshot" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 Custom CRM Platform (Internal Project)
+
+<table>
+<tr>
+<td width="60%">
+
+**Custom CRM system** handling customer management, project tracking, invoicing, iOS calendar sync, document generation, and transactional email flows, documents signature solutions.
+
+**Focus:** Business Process Automation, Administrative Efficiency, Client Management.
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Strapi](https://img.shields.io/badge/Strapi-2e7eea?style=for-the-badge&logo=strapi)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase)
+
+</td>
+<td>
+
+<img src="https://your-crm-screenshot-link.com" alt="CRM Platform Screenshot" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛒 [kitsolairepro.fr](https://kitsolairepro.fr)
+
+<table>
+<tr>
+<td width="60%">
+
+**Headless e-commerce platform** using Shopify backend with a custom-built Next.js frontend.  
+Implemented dynamic product configurators, SEO-first structure, and user-friendly purchasing paths.
+
+**Focus:** E-commerce Scalability, Dynamic Configurators, SEO-first Strategy.
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Shopify](https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</td>
+<td>
+
+<img src="https://your-kitsolairepro-screenshot-link.com" alt="Kitsolairepro Website Screenshot" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📦 Open Source Projects
+
+---
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### [@consentry/next](https://www.npmjs.com/package/@consentry/next)
+
+[![NPM Version](https://img.shields.io/npm/v/@consentry/next?color=cb3837&label=npm&logo=npm&style=for-the-badge)](https://www.npmjs.com/package/@consentry/next)
+
+**GDPR-compliant consent and script management** for Next.js apps.
+
+</td>
+<td width="33%" align="center">
+
+### [@consentry/ui](https://www.npmjs.com/package/@consentry/ui)
+
+[![NPM Version](https://img.shields.io/npm/v/@consentry/ui?color=cb3837&label=npm&logo=npm&style=for-the-badge)](https://www.npmjs.com/package/@consentry/ui)
+
+**Consent UI components** for managing cookies in Next.js applications.
+
+</td>
+<td width="33%" align="center">
+
+### [@nextshopkit/sdk](https://www.npmjs.com/package/@nextshopkit/sdk)
+
+[![NPM Version](https://img.shields.io/npm/v/@nextshopkit/sdk?color=cb3837&label=npm&logo=npm&style=for-the-badge)](https://www.npmjs.com/package/@nextshopkit/sdk)
+
+**Shopify & Next.js integration SDK** with dynamic fields and cart management.
+
+</td>
+</tr>
+</table>
 
 ---
 

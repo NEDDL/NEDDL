@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Web Developer & Product Owner | Next.js • Strapi • React.js • SEO • CRM Development</h3>
+<h3 align="center">Developer | Next.js • Strapi • React.js • SEO • CRM Systems • E-commerce Platforms • SaaS Solutions</h3>
 
 ---
 
-### 🔥 About Me
+## 🔥 About Me
 
-- 🧩 I build **dynamic websites**, **custom CRM platforms**, **headless e-commerce solutions**, and **admin tools**.
+Turning ideas into scalable, high-performance web applications using Next.js, Strapi, and modern cloud technologies.
+
+- 🧩 I build **dynamic websites**, **custom CRM systems**, **headless e-commerce platforms**, and **business automation tools**.
 - 🛠 Specialized in **Next.js**, **Strapi**, **React.js**, **Supabase**, **Node.js/Express.js**, **PostgreSQL**, and **Shopify Headless**.
-- 🚀 Focused on delivering **scalable**, **SEO-optimized**, **GDPR-compliant** digital products with a strong business impact.
-- 🎯 Passionate about aligning **technical delivery** with **real business goals**: user autonomy, sales automation, CRM efficiency, and operational growth.
+- 🚀 Committed to delivering **SEO-optimized**, **GDPR-compliant**, and **business-driven** digital solutions.
+- 🎯 Passionate about aligning **technology delivery** with **real business outcomes**: user autonomy, sales acceleration, CRM efficiency, and operational scalability.
 
 ---
 
-### 🛠 Main Tech Stack
+## 🛠 Main Tech Stack
 
 <div align="left">
 
@@ -53,7 +55,7 @@
 
 ---
 
-### 📚 Extended Tools & Libraries
+## 📚 Extended Tools & Libraries
 
 | Category                     | Libraries / Services                                                         |
 | :--------------------------- | :--------------------------------------------------------------------------- |
@@ -71,7 +73,7 @@
 
 ---
 
-### 🚀 Solutions and Features I Built
+### 🚀 Features I Built
 
 <details>
 <summary>🧩 Dynamic Website Builders</summary>
@@ -189,8 +191,6 @@ Agile methodologies (Scrum/Kanban), backlog management, technical user story wri
 
 ## 🚀 Projects & Solutions I Built
 
----
-
 ### 🌐 [soleilex.com](https://soleilex.com)
 
 <table>
@@ -205,6 +205,7 @@ Agile methodologies (Scrum/Kanban), backlog management, technical user story wri
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </td>
 <td>
@@ -223,16 +224,17 @@ Agile methodologies (Scrum/Kanban), backlog management, technical user story wri
 <tr>
 <td width="60%">
 
-**Custom CRM system** handling customer management, project tracking, invoicing, iOS calendar sync, document generation, and transactional email flows, documents signature solutions.
+**Custom CRM system** handling customer management, project tracking, invoicing, iOS calendar sync, document generation, and transactional email flows, documents signature solutions, interactive maps.
 
 **Focus:** Business Process Automation, Administrative Efficiency, Client Management.
 
 **Tech Stack:**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Strapi](https://img.shields.io/badge/Strapi-2e7eea?style=for-the-badge&logo=strapi)
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 </td>
 <td>
@@ -274,8 +276,6 @@ Implemented dynamic product configurators, SEO-first structure, and user-friendl
 ---
 
 ## 📦 Open Source Projects
-
----
 
 <table>
 <tr>

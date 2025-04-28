@@ -210,7 +210,7 @@ Agile methodologies (Scrum/Kanban), backlog management, technical user story wri
 </td>
 <td>
 
-<img src="https://your-screenshot-link.com" alt="Soleilex Website Screenshot" width="100%"/>
+<img src="https://github.com/NEDDL/NEDDL/blob/main/assets/Soleilex.png?raw=true" alt="Soleilex Website Screenshot" width="100%"/>
 
 </td>
 </tr>
@@ -239,7 +239,7 @@ Agile methodologies (Scrum/Kanban), backlog management, technical user story wri
 </td>
 <td>
 
-<img src="https://your-crm-screenshot-link.com" alt="CRM Platform Screenshot" width="100%"/>
+<img src="https://github.com/NEDDL/NEDDL/blob/main/assets/Jarvis.png?raw=true" alt="CRM Platform Screenshot" width="100%"/>
 
 </td>
 </tr>
@@ -267,7 +267,7 @@ Implemented dynamic product configurators, SEO-first structure, and user-friendl
 </td>
 <td>
 
-<img src="https://your-kitsolairepro-screenshot-link.com" alt="Kitsolairepro Website Screenshot" width="100%"/>
+<img src="https://github.com/NEDDL/NEDDL/blob/main/assets/KitSolairePro.png?raw=true" alt="Kitsolairepro Website Screenshot" width="100%"/>
 
 </td>
 </tr>

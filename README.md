@@ -104,11 +104,11 @@ Re-architecting legacy SaaS platforms built with Angular, NestJS, and PHP to mod
 
 **Technologies & Tools:**  
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![React.js](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 
 **Focus:**  
@@ -125,10 +125,10 @@ Integrating AI features into scalable, event-driven workflows using serverless a
 
 **Technologies & Tools:**  
 
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws&logoColor=white)  
-![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF9900?style=for-the-badge&logo=aws&logoColor=white)  
-![AWS SNS](https://img.shields.io/badge/AWS%20SNS-FF9900?style=for-the-badge&logo=aws&logoColor=white)  
-![AWS EventBridge](https://img.shields.io/badge/AWS%20EventBridge-FF9900?style=for-the-badge&logo=aws&logoColor=white)  
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF9900?style=for-the-badge&logo=aws&logoColor=white)
+![AWS SNS](https://img.shields.io/badge/AWS%20SNS-FF9900?style=for-the-badge&logo=aws&logoColor=white)
+![AWS EventBridge](https://img.shields.io/badge/AWS%20EventBridge-FF9900?style=for-the-badge&logo=aws&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
 
 **Focus:**  

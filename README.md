@@ -18,6 +18,7 @@ Turning ideas into scalable, high-performance web applications using Next.js, St
 ### 🚀 Core Stack
 My main tools for building scalable, production-ready applications.  
 <div align="left">
+  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![React.js](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)

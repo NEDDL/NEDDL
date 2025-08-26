@@ -98,20 +98,46 @@ Platforms I rely on for hosting, CI/CD, and scaling solutions.
 ### 🚀 Features I Built
 
 <details>
-<summary>🧩 Dynamic Website Builders</summary>
+<summary>🧩 Migrating & Modernizing Legacy SaaS Systems</summary>
 
-Fully editable websites with pre-configured CMS structures for non-technical users.
+Re-architecting legacy SaaS platforms built with Angular, NestJS, and PHP to modern, scalable stacks using Next.js, React, and serverless/cloud-native approaches. Focused on improving maintainability, performance, and user experience.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
-![Contentful](https://img.shields.io/badge/Contentful-2478cc?style=for-the-badge&logo=contentful&logoColor=white)
+**Technologies & Tools:**  
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![React.js](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+
+**Focus:**  
+- Modernizing architecture and tech stack  
+- Improving scalability, maintainability, and performance  
+- Streamlining migration paths for SaaS platforms  
+
+</details>
+<details>
+<summary>🧩 Event-driven Serverless AI Workflows</summary>
+
+Integrating AI features into scalable, event-driven workflows using serverless architecture. Designed for asynchronous processing, notifications, and automated triggers.
+
+**Technologies & Tools:**  
+
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws&logoColor=white)  
+![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF9900?style=for-the-badge&logo=aws&logoColor=white)  
+![AWS SNS](https://img.shields.io/badge/AWS%20SNS-FF9900?style=for-the-badge&logo=aws&logoColor=white)  
+![AWS EventBridge](https://img.shields.io/badge/AWS%20EventBridge-FF9900?style=for-the-badge&logo=aws&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+
+**Focus:**  
+- Asynchronous, decoupled workflows  
+- Scalable, cost-efficient serverless architecture  
+- Real-time event processing & AI automation  
 
 </details>
 
-<details>
+
 <summary>🧩 Custom CRM Platforms</summary>
 
 Handling customer management, invoicing, project tracking, and administrative document automation.
@@ -138,6 +164,22 @@ Shopify Headless stores with dynamic product configurators and SEO optimization.
 </details>
 
 <details>
+<summary>🧩 Dynamic Website Builders</summary>
+
+Fully editable websites with pre-configured CMS structures for non-technical users.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-2478cc?style=for-the-badge&logo=contentful&logoColor=white)
+
+</details>
+
+<details>
+
+<details>
 <summary>🧩 Consent & Script Management</summary>
 
 GDPR-compliant tracking management via custom Next.js SDK.
@@ -159,6 +201,8 @@ Integration of government APIs, third-party services, and internal systems.
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 
 </details>
 
@@ -179,10 +223,11 @@ Scaling websites and CRMs using Vercel, AWS, and Cloudflare.
 <details>
 <summary>🧩 Authentication Systems</summary>
 
-Supabase Auth and Firebase Authentication implementation.
+Supabase Auth, Firebase Authentication, and migration of legacy FuelPHP auth to Keycloak.
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Keycloak](https://img.shields.io/badge/Keycloak-1C1C1C?style=for-the-badge&logo=keycloak&logoColor=white)
 
 </details>
 
@@ -206,6 +251,7 @@ Agile methodologies (Scrum/Kanban), backlog management, technical user story wri
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </details>
 

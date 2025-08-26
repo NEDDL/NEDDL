@@ -117,6 +117,7 @@ Re-architecting legacy SaaS platforms built with Angular, NestJS, and PHP to mod
 - Streamlining migration paths for SaaS platforms  
 
 </details>
+
 <details>
 <summary>🧩 Event-driven Serverless AI Workflows</summary>
 
@@ -137,7 +138,7 @@ Integrating AI features into scalable, event-driven workflows using serverless a
 
 </details>
 
-
+<details>
 <summary>🧩 Custom CRM Platforms</summary>
 
 Handling customer management, invoicing, project tracking, and administrative document automation.

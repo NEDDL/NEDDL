@@ -179,8 +179,6 @@ Fully editable websites with pre-configured CMS structures for non-technical use
 </details>
 
 <details>
-
-<details>
 <summary>🧩 Consent & Script Management</summary>
 
 GDPR-compliant tracking management via custom Next.js SDK.

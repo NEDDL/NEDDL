@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Developer | Next.js • Strapi • React.js • SEO • CRM Systems • E-commerce Platforms • SaaS Solutions</h3>
+<h3 align="center">Full-Stack Engineer | Next.js • React.js • Serverless • AI • SaaS & E-commerce Solutions | Building scalable systems that drive business outcomes</h3>
 
 ---
 
@@ -7,33 +7,54 @@
 
 Turning ideas into scalable, high-performance web applications using Next.js, Strapi, and modern cloud technologies.
 
-- 🧩 I build **dynamic websites**, **custom CRM systems**, **headless e-commerce platforms**, and **business automation tools**.
-- 🛠 Specialized in **Next.js**, **Strapi**, **React.js**, **Supabase**, **Node.js/Express.js**, **PostgreSQL**, and **Shopify Headless**.
-- 🚀 Committed to delivering **SEO-optimized**, **GDPR-compliant**, and **business-driven** digital solutions.
-- 🎯 Passionate about aligning **technology delivery** with **real business outcomes**: user autonomy, sales acceleration, CRM efficiency, and operational scalability.
+- Built **dynamic websites**, **CRM platforms**, **headless e-commerce**, and **automation tools** for clients and internal projects.
+- Skilled in **Next.js, React.js, Strapi, Node.js/Express.js, Supabase, PostgreSQL, Shopify Headless**.
+- Passionate about **aligning tech delivery with business outcomes**: user autonomy, sales acceleration, CRM efficiency, and operational scalability.
 
 ---
 
 ## 🛠 Main Tech Stack
 
+### 🚀 Core Stack
+My main tools for building scalable, production-ready applications.  
 <div align="left">
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![React.js](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
-![Strapi](https://img.shields.io/badge/Strapi-2e7eea?style=for-the-badge&logo=strapi)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)
+
+</div>
+
+---
+
+### ⚡ Extended Tools & Platforms
+Technologies I frequently use for integrations, APIs, and specialized projects.  
+<div align="left">
+
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
-![Contentful](https://img.shields.io/badge/Contentful-2478cc?style=for-the-badge&logo=contentful&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2e7eea?style=for-the-badge&logo=strapi)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)
+</div>
+
+---
+
+### ☁️ Cloud & Deployment
+Platforms I rely on for hosting, CI/CD, and scaling solutions.  
+<div align="left">
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 </div>
 
@@ -60,7 +81,7 @@ Turning ideas into scalable, high-performance web applications using Next.js, St
 | Category                     | Libraries / Services                                                         |
 | :--------------------------- | :--------------------------------------------------------------------------- |
 | **UI Libraries**             | Material UI, Styled-components, Tailwind, Lucide-react                       |
-| **State Management**         | Redux, Redux Toolkit                                                         |
+| **State Management**         | Redux, Redux Toolkit, Tanstack, Zustand                                      |
 | **Forms & Validation**       | Formik, Yup, React Hook Form                                                 |
 | **APIs & Data**              | REST APIs, GraphQL (used but prefer REST), Axios                             |
 | **Authentication**           | Supabase Auth, Firebase Auth                                                 |

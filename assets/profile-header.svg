@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mustafa Onal | Senior Software Engineer</title>
+  <desc id="desc">SaaS platforms, applied AI, and developer tools. A geometric network of connected nodes sits beside the name.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#101c2d"/>
+      <stop offset="1" stop-color="#0a1120"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#2dd4bf" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#64748b" opacity=".18"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <ellipse cx="985" cy="146" rx="260" ry="200" fill="url(#glow)"/>
+  <rect x="48" y="49" width="30" height="3" rx="1.5" fill="#5eead4"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="48" y="126" fill="#f8fafc" font-size="60" font-weight="700" letter-spacing="-2">Mustafa Onal</text>
+    <text x="50" y="173" fill="#5eead4" font-size="25" font-weight="500">Senior Software Engineer</text>
+    <text x="50" y="237" fill="#abb9cb" font-size="21">SaaS platforms · Applied AI · Developer tools</text>
+  </g>
+  <g fill="none" stroke="#30485d" stroke-width="2">
+    <path d="M812 150H868Q880 150 880 138V94Q880 82 892 82H940"/>
+    <path d="M812 150H868Q880 150 880 162V206Q880 218 892 218H940"/>
+    <path d="M968 82H1015Q1027 82 1027 94V138Q1027 150 1039 150H1082"/>
+    <path d="M968 218H1015Q1027 218 1027 206V162Q1027 150 1039 150H1082"/>
+  </g>
+  <path d="M812 150H868Q880 150 880 138V94Q880 82 892 82H940" fill="none" stroke="#5eead4" stroke-width="2"/>
+  <g fill="#101c2d" stroke="#456078" stroke-width="2">
+    <rect x="786" y="132" width="36" height="36" rx="10"/>
+    <rect x="936" y="64" width="36" height="36" rx="10" stroke="#5eead4"/>
+    <rect x="936" y="200" width="36" height="36" rx="10"/>
+    <rect x="1078" y="132" width="36" height="36" rx="10"/>
+  </g>
+  <circle cx="804" cy="150" r="5" fill="#94a3b8"/>
+  <circle cx="954" cy="82" r="5" fill="#5eead4"/>
+  <circle cx="954" cy="218" r="5" fill="#94a3b8"/>
+  <circle cx="1096" cy="150" r="5" fill="#94a3b8"/>
+</svg>
